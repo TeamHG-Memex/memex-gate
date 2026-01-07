@@ -1,0 +1,7 @@
+./README.md
+./utility/scrape_district_attorneys.py
+./utility/scrape_us_cities.py
+./utility/scrape_legal_lexicon.py
+./utility/scrape_federal_district_attorneys.py
+./utility/scrape_federal_judges.py
+./utility/scrape_district_and_territorial_courts.py
